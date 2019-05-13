@@ -146,7 +146,7 @@ By applying the linear [methods](#comparion), we define
 
 where <img src="https://tex.s2cms.ru/svg/x_%7B1%7D" alt="x_{1}" /> -- <img src="https://tex.s2cms.ru/svg/x_%7B9%7D" alt="x_{9}" /> are the low-dimension features.
 
-In this case, we set <img src="https://tex.s2cms.ru/svg/%5CGamma%20%3D%205" alt="\Gamma = 5" /> and <img src="https://tex.s2cms.ru/svg/%20%5Csigmma%20%3D5" alt=" \sigmma =5" /> for Bayesian linear regression.
+In this case, we set <img src="https://tex.s2cms.ru/svg/%5CGamma%20%3D%205" alt="\Gamma = 5" /> for Bayesian linear regression.
 
 
 <p align ="center">
